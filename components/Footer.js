@@ -51,8 +51,8 @@ export default function Footer() {
             </h4>
             <ul className="space-y-2.5 text-sm" style={{ color: "#F2E9D8CC" }}>
               <li>uayking078@gmail.com</li>
-              <li>+92 310 6010110</li>
-              <li>Bahawalpur, Pakistan</li>
+             
+              <li>Work internationally </li>
             </ul>
           </div>
         </div>
